@@ -45,7 +45,7 @@
 ## 2. Descargar datos de una API Publica y convertir a CSV
 
 * Utilizaremos la API de [PICSUM](https://picsum.photos/).
-* Para ejecutar el programa, nos dirigirnos al directorio ```/bin``` y desde ahí ejecutar el siguiente comando:
+* Para ejecutar el programa, nos dirigirnos al directorio ```/bin``` y desde ahí ejecutamos el siguiente comando:
 
 ```$ php -f storePicsInfoToCsv.php```
 
