@@ -2,6 +2,7 @@
 
 ### 1 - Carga de un fichero CSV en una base de datos
 
+* Partimos del archivo **naves.csv**.
 * Para importar el fichero CSV a la base de datos sqlite, debemos dirigirnos al directorio ```/bin``` y desde ahí ejecutar el siguiente comando:
 
 ```$ php -f import.php```
