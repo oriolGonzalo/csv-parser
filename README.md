@@ -1,8 +1,6 @@
 # CSV parser: 
 
-## 1. Carga de un fichero CSV en una base de datos
-
-### Pasos para la ejecución del programa
+### 1 - Carga de un fichero CSV en una base de datos
 
 * Para importar el fichero CSV a la base de datos sqlite, debemos dirigirnos al directorio ```/bin``` y desde ahí ejecutar el siguiente comando:
 
@@ -13,7 +11,7 @@
 
   Nota: El archivo de base de datos resultante lo podréis encontrar en el directorio raíz del proyecto
 
-### Visualización de los datos en el navegador
+### 1.1 - Visualización de los datos en el navegador
 
 * Para consultar los datos almacenados en el archivo sqlite desde el navegador, iniciamos el servidor de php con el siguiente comando:
 
@@ -27,7 +25,7 @@
 
 * Visualizaremos en el navegador un listado con información resumida de todos los registros. 
 
-### Operaciones sobre los datos desde el navegador
+### 1.2 - Operaciones sobre los datos desde el navegador
 
 * Para cada registro podremos llevar a cabo, desde la columna "acciones" las siguientes operaciones:
 
